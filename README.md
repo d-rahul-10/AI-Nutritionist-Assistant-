@@ -26,6 +26,6 @@ Your personal AI nutritionist built with Streamlit, LangChain, and Ollama. Provi
 ## Installation
 
 ```bash
-git clone https://github.com/d-rahul-10/Hackstrom-codeX.git
-cd Hackstrom-codeX
+git clone https://github.com/d-rahul-10/AI-Nutritionist-Assistant-
+cd AI-Nutritionist-Assistant-
 pip install -r requirements.txt
